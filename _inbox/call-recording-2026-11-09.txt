@@ -1,0 +1,17 @@
+Meeting recording — Mon 9 Nov 2026, 10:02–10:31
+Attendees: marta.ruiz@frescomarket.es, j.soto@frescomarket.es, alex@lumen.io
+
+[00:00] Alex: Morning both. I have the per-store business case for Portugal, so I'd like to walk you through it and hear where you are.
+[00:41] Javier: Before that, good news: the board approved the budget for the 40 Portuguese stores. Rollout starts in April.
+[00:55] Marta: But I'll be honest, the decision on the forecasting tool isn't automatic. Forecastly reached out to me directly last week, with a price per store well below yours.
+[01:20] Alex: Thanks for telling me. What did they show you?
+[01:31] Marta: A deck, mostly. What caught my attention is they claim to handle promotions. That's still our biggest gap with you. Easter in Portugal is huge.
+[02:10] Javier: For me it's simple. If you can handle promotions for Easter, Portugal is yours. If not, we have to look at Forecastly seriously.
+[02:30] Alex: Understood. Promo-aware forecasting is on our roadmap, and I'll come back with a firm date, in writing.
+[03:05] Javier: And the pricing for Portugal. I need it before our steering committee on the 20th.
+[03:15] Alex: I'll send the Portugal pricing proposal by Friday the 13th.
+[03:40] Marta: One risk you should know: if we don't decide by the end of January, the budget gets frozen until the next fiscal year.
+[04:02] Alex: Got it, so January 31 is the real deadline.
+[04:20] Javier: Exactly.
+[04:35] Marta: I'll send the store list with opening dates this week.
+[05:10] Alex: Perfect. I'll also loop in Priya on the Portuguese holiday calendar.
