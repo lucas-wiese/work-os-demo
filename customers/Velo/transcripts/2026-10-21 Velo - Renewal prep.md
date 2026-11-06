@@ -17,7 +17,7 @@
 
 **Lena:** Completely. Promo-aware forecasting is the one thing I'd ask for.
 
-**Lena:** And to be transparent, Forecastly pitched us last month. Roughly 30% cheaper. I don't love their product, but Tobias saw the price.
+**Lena:** And to be transparent, Quillcast pitched us last month. Roughly 30% cheaper. I don't love their product, but Tobias saw the price.
 
 **Alex:** Thanks for telling me. I'll come back with a date for promotions on the roadmap by mid-November, and a renewal proposal with a multi-year option before December.
 

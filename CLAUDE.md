@@ -11,7 +11,7 @@ This file is the **index**: scan it to find where everything lives, plus the ope
 | **`customers/{Account}/`** | One folder per account, all with the same shape: `STATE.md` + `transcripts/` | `customers/CLAUDE.md` |
 | **`knowledge/`** | What's true across accounts: `insights.md` (requests, objections, competitors, by theme) | — |
 
-**Root files:** `CLAUDE.md` (this index) · `pipeline.md` (every open deal, cross-account) · `TIMELINE.md` (one line per session, written by hook) · `_inbox/` (raw drops: call recordings, exports, pasted threads; `/file-call` files them).
+**Root files:** `CLAUDE.md` (this index) · `pipeline.md` (every open deal, cross-account) · `TIMELINE.md` (one line per session, written by hook) · `_inbox/` (raw drops: call recordings, exports, pasted threads). When you open Claude, a hook sees anything new there and `/file-call` files it.
 
 ## Where to find X
 

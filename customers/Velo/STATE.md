@@ -28,8 +28,8 @@
 
 ## Context / why
 
-Velo's forecasts miss badly during promotions (Black Friday, spring launch), and that is the CFO's main argument against renewing. Forecastly pitched them ~30% cheaper. Lena wants to stay if promotions get handled.
+Velo's forecasts miss badly during promotions (Black Friday, spring launch), and that is the CFO's main argument against renewing. Quillcast pitched them ~30% cheaper. Lena wants to stay if promotions get handled.
 
 ## Log
 
-- 2026-10-21 · Renewal prep with Lena. Asked for promo-aware forecasting; Forecastly is in the picture. → `transcripts/2026-10-21 Velo - Renewal prep.md`
+- 2026-10-21 · Renewal prep with Lena. Asked for promo-aware forecasting; Quillcast is in the picture. → `transcripts/2026-10-21 Velo - Renewal prep.md`

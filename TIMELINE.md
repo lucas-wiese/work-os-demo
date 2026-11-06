@@ -22,7 +22,7 @@ Tags: `account` · `deal` · `insights` · `system`
 - `account` #Fresco Market · Filed the QBR; Portugal expansion opened as a deal, waste number kept internal. ⟨5a9f3b61⟩ → customers/Fresco Market/STATE.md, pipeline.md
 
 ## 2026-10-23
-- `system` · Added the rule "a fact stated mid-session goes to STATE.md in the same turn" after a lost renewal date. ⟨0d8c7e25⟩ → CLAUDE.md
+- `system` · /weekly-review: added the rule "a fact stated mid-session goes to STATE.md in the same turn"; a renewal date said in a session never reached STATE.md. ⟨0d8c7e25⟩ → CLAUDE.md
 
 ## 2026-10-21
-- `account` #Velo · Filed the renewal prep call; Forecastly and the promotions gap logged. ⟨9f2a6b3c⟩ → customers/Velo/STATE.md, knowledge/insights.md
+- `account` #Velo · Filed the renewal prep call; Quillcast and the promotions gap logged. ⟨9f2a6b3c⟩ → customers/Velo/STATE.md, knowledge/insights.md

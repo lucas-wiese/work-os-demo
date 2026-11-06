@@ -19,5 +19,5 @@ Grown by `/file-call`: every request, objection or competitor mention lands unde
 
 ## Competitors
 
-### Forecastly
+### Quillcast
 - **Velo** · 2026-10-21 · Pitched them ~30% cheaper. "I don't love their product, but Tobias saw the price."
