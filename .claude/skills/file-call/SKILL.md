@@ -1,6 +1,6 @@
 ---
-name: process-call
-description: Files a raw call recording or pasted transcript into the right customer and updates everything it touches (STATE, pipeline, insights). Use when the user says "process this call", "file this transcript", "/process-call", or drops a recording in _inbox/.
+name: file-call
+description: Files a raw call recording or pasted transcript into the right customer and updates everything it touches (STATE, pipeline, insights). Use when the user says "process this call", "file this transcript", "/file-call", or drops a recording in _inbox/.
 argument-hint: [path in _inbox/ — defaults to the newest file there]
 ---
 

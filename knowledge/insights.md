@@ -1,6 +1,6 @@
 # Insights — what's true across accounts
 
-Grown by `/process-call`: every request, objection or competitor mention lands under its theme with the account, the date and a short quote. When a theme reaches two or more accounts, it's a pattern worth taking to product or leadership.
+Grown by `/file-call`: every request, objection or competitor mention lands under its theme with the account, the date and a short quote. When a theme reaches two or more accounts, it's a pattern worth taking to product or leadership.
 
 ## Feature requests
 

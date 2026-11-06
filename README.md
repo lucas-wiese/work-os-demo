@@ -14,13 +14,13 @@ A small, working example of an AI-native work setup: all your context in one fol
 
 1. **`CLAUDE.md` is an index, not a document.** It tells Claude where everything lives and the rules of the house. Each folder can have its own.
 2. **One `STATE.md` per account.** The single place where an account's status lives. Every call and every decision updates it.
-3. **Automation for the boring capture.** `/process-call` files a raw transcript into the right account, updates its state, the pipeline and the cross-customer insights.
+3. **Automation for the boring capture.** `/file-call` files a raw transcript into the right account, updates its state, the pipeline and the cross-customer insights.
 4. **A TIMELINE that learns.** Hooks log every session you close with `/clear`. `/weekly-review` reads that log and proposes changes to the setup itself.
 
 ## Try it (no experience needed)
 
 1. Download this folder and open it in Claude Code: the **Code** tab of the Claude desktop app, or VS Code with the Claude Code extension.
-2. Type `/process-call`. Claude files `_inbox/call-recording-2026-11-09.txt` into Fresco Market and tells you what changed.
+2. Type `/file-call`. Claude files `_inbox/call-recording-2026-11-09.txt` into Fresco Market and tells you what changed.
 3. Ask: *"Which customers asked for promo-aware forecasting, and how much revenue depends on it?"*
 4. Type `/clear`. The next session starts by writing its line in `TIMELINE.md`.
 
