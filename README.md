@@ -19,7 +19,7 @@ A small, working example of an AI-native work setup: all your context in one fol
 
 ## Try it (no experience needed)
 
-1. Download this folder and open it in Claude Code: the **Code** tab of the Claude desktop app, or VS Code with the Claude Code extension.
+1. Download this folder (on GitHub: **Code → Download ZIP**, then unzip it) and open it in Claude Code: the **Code** tab of the Claude desktop app, or VS Code with the Claude Code extension.
 2. Say hi. A hook sees `_inbox/call-recording-2026-11-09.txt`, and Claude files it into Fresco Market and tells you what changed (or type `/file-call` yourself).
 3. Ask: *"Which customers asked for promo-aware forecasting, and how much revenue depends on it?"*
 4. Type `/clear`. The next session starts by writing its line in `TIMELINE.md`.
